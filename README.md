@@ -1,7 +1,7 @@
 # 拒绝强制亮度
 
 ![Eclipse Marketplace](https://img.shields.io/badge/license-AGPL3.0-blue)
-![Eclipse Marketplace](https://img.shields.io/badge/version-v1.0-green)
+![Eclipse Marketplace](https://img.shields.io/badge/version-v1.1-green)
 [![Telegram](https://img.shields.io/badge/Follow-Telegram-blue.svg?logo=telegram)](https://t.me/XiaofangInternet)
 
 深夜拿起手机，不小心点到付款码、收款码、扫描二维码，屏幕亮度强制最高，人直接去世……
@@ -44,6 +44,11 @@
 - 支持根据系统特定亮度区间和指定 `Activity` 做出亮度调整功能，防止必要的设置不生效
 
 - 可配合屏幕遮罩和 Android 12 下的极暗模式自动限制调整屏幕亮度
+
+## 捐赠支持
+
+- 工作不易，无意外情况此项目将继续维护下去，提供更多可能，欢迎打赏。<br/><br/>
+  <img src="https://github.com/fankes/YuKiHookAPI/blob/master/img-src/wechat_code.jpg" width = "200" height = "200"/>
 
 ## 贡献
 
