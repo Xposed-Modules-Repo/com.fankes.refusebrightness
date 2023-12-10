@@ -8,10 +8,6 @@
 
 请给用户一个选择，拒绝 APP 强制屏幕亮度，从我做起。
 
-## Developer
-
-[酷安 @星夜不荟](http://www.coolapk.com/u/876977)
-
 ## 作用域说明
 
 - 只需勾选你需要生效的 APP 即可
@@ -45,10 +41,22 @@
 
 - 可配合屏幕遮罩和 Android 12 下的极暗模式自动限制调整屏幕亮度
 
-## 捐赠支持
+## 请勿用于非法用途
 
-- 工作不易，无意外情况此项目将继续维护下去，提供更多可能，欢迎打赏。<br/><br/>
-  <img src="https://github.com/fankes/YuKiHookAPI/blob/master/img-src/wechat_code.jpg" width = "200" height = "200"/>
+<h3>1.&nbsp本软件免费、由兴趣使然、仅供学习交流而开发，如果你是从其他不明来源的渠道付费得到本软件，则你已上当受骗，若发现欢迎向我们举报。</h3>
+
+<h3>2.&nbsp未经本人许可，禁止转载、搬运本软件的安装包及源代码到 GitHub 以外的平台并提供下载链接。</h3>
+
+## 项目推广
+
+<!--suppress HtmlDeprecatedAttribute -->
+<div align="center">
+    <h2>嘿，还请君留步！👋</h2>
+    <h3>这里有 Android 开发工具、UI 设计、Gradle 插件、Xposed 模块和实用软件等相关项目。</h3>
+    <h3>如果下方的项目能为你提供帮助，不妨为我点个 star 吧！</h3>
+    <h3>所有项目免费、开源，遵循对应开源许可协议。</h3>
+    <h1><a href="https://github.com/fankes/fankes/blob/main/project-promote/README-zh-CN.md">→ 查看更多关于我的项目，请点击这里 ←</a></h1>
+</div>
 
 ## 贡献
 
